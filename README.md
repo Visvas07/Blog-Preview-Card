@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Blog Preview Card](https://github.com/Visvas07/Blog-Preview-Card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Solution link](https://visvas07.github.io/Blog-Preview-Card/)
 
 ## My process
 
